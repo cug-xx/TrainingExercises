@@ -1,2 +1,0 @@
-# TrainingExercises
-description about project
